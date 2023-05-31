@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutterapp/Screens/photos.dart';
-import 'package:flutterapp/Screens/welcomepage.dart';
+import 'package:mob_revision/Screens/photos.dart';
+import 'package:mob_revision/Screens/welcomepage.dart';
 
 class butons extends StatelessWidget {
   const butons({super.key});

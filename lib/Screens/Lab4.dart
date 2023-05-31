@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutterapp/Screens/welcomepage.dart';
-import 'package:flutterapp/Screens/photos.dart';
+import 'package:mob_revision/Screens/welcomepage.dart';
 
 class Lab4e extends StatelessWidget {
   const Lab4e({super.key});

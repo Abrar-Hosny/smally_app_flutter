@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutterapp/Screens/welcomepage.dart';
+import 'package:mob_revision/Screens/welcomepage.dart';
 
 class photos extends StatelessWidget {
   const photos({super.key});
